@@ -5,7 +5,7 @@ window.addEventListener("load", () => {
     // window.addEventListener("load", () => {
 
     //Tempo em segundos, que queremos.
-    let sec = 360;
+    let sec = 10;
 
     const countDiv = document.getElementById("timer");
 

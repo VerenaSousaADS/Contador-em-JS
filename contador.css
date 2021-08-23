@@ -36,3 +36,12 @@ article #timer {
 
   border-radius: 5px;
 }
+
+article #button{
+    padding: 5px;
+    background-color: #E0FFFF;
+
+    border-radius: 5px;
+    color: black;
+    font: normal bold 12px / normal tahoma;
+}
